@@ -1,0 +1,11 @@
+
+
+#footerbg{background-color:aquamarine; color:blue}
+.Headerbg{background-color:aquamarine; color:black;}
+
+h5{display: grid;grid-template-rows: auto;bottom: 300px;position: relative;}
+p{display: grid;grid-template-rows: auto;bottom: 300px;position: relative;}
+
+#col-sm-3>h5{margin-right:'20px' }
+
+#footer{display:flex;}
